@@ -1,7 +1,7 @@
 # covid_19-
 This Power BI dashboard provides a comprehensive look at global COVID-19 data. It focuses on key statistics like confirmed cases, recoveries, deaths, and total tests. The visuals make it easy to see how different countries have been affected and how the pandemic has evolved over time
 
-#How Visuals Enhance the Analysis:
+# How Visuals Enhance the Analysis:
 
 
 Global Overview at a Glance: The dashboard uses large, easy-to-read visual elements to present the total number of confirmed cases, recoveries, deaths, and tests. This allows  to quickly grasp the scale of the pandemic with just a glance.
@@ -14,7 +14,7 @@ Trend Lines for Tracking Changes: The timeline visual is another powerful tool, 
 
 ![Screenshot (637)](https://github.com/user-attachments/assets/376c87b9-1a8f-4d85-a5ab-5b192661efe4) 
 
-#Overall Insights:
+# Overall Insights:
 
 The dashboard gives a global perspective on COVID-19, focusing on the severity of the pandemic across different regions.
 The visualizations are designed to provide a quick, yet detailed understanding of key metrics, such as death tolls, confirmed cases, and recoveries, with specific emphasis on high-impact countries.
