@@ -12,6 +12,7 @@ Mapping the Pandemic: The dashboard includes interactive map visuals that provid
 
 Trend Lines for Tracking Changes: The timeline visual is another powerful tool, showing how confirmed cases, recoveries, and deaths evolved over several months. This trend analysis is essential for understanding the progression of the pandemic, identifying peaks, and observing the impact of interventions. The smooth, continuous lines make it easy to track changes over time.
 
+# Power_BI Dashboard 
 ![Screenshot (637)](https://github.com/user-attachments/assets/376c87b9-1a8f-4d85-a5ab-5b192661efe4) 
 
 # Overall Insights:
